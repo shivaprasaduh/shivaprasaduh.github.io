@@ -82,7 +82,10 @@ analytics:
 author:
   name             : "Shivaprasad"
   avatar           : "shivaprasad.jpg"
-  bio              : "B.Tech Engineering Physics,\n IIT Madras"
+  bio              : |+ 
+                      "B.Tech Engineering Physics, \n
+                      
+                      IIT Madras"
   location         : "Chennai, India"
   employer         :
   pubmed           : 
