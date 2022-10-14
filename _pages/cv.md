@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,11 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
+If you prefer a concise résumé, please see find it
+
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.Tech in Engineering Physics Indian Institute of Technology Madras
 
 Work experience
 ======

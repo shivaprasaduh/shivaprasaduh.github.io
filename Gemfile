@@ -24,4 +24,7 @@ group :jekyll_plugins do
   gem "jekyll-feed"
   gem 'jekyll-sitemap'
   gem 'hawkins'
+  gem 'eventmachine', '1.2.7', git: 'https://github.com/eventmachine/eventmachine.git', tag: 'v1.2.7'
+  gem 'tzinfo', '1.2.10'
+  gem 'tzinfo-data', '1.2022.5'
 end
