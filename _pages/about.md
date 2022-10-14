@@ -7,8 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I'm an applied physicist and an engineer from IIT Madras. My main research interest is in superconducting circuits for quantum information processing and photnic quantum technologies. 
-I have been influenced and inspired by experiences gained alongside great guides, teachers, and my education. 
+I'm an applied physicist and an engineer from IIT Madras. My main research interest is in superconducting circuits for quantum information processing and photnic quantum technologies. I am motivated by my research works in both theoritical and experimental domains in the above fields.
 I hope to pursue a Ph.D. in this research field and contribute to groundbreaking research.
 
 A data-driven personal website
