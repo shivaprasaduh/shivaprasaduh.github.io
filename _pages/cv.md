@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-If you prefer a concise résumé, please see find it here.
+If you prefer a concise résumé, please see find it [here](/files/CV.pdf).
 
 Education
 ======
