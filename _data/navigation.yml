@@ -9,14 +9,15 @@ main:
   # - title: "Teaching"
   #   url: /teaching/    
     
-  - title: "Portfolio"
-    url: /portfolio/
+  - title: "Research"
+    url: /research/
         
-  - title: "Miscellaneous"
-    url: /year-archive/
-    
+
   - title: "CV"
     url: /cv/
-    
+  
+  - title: "Miscellaneous"
+    url: /year-archive/
+
   - title: "Contact"
     url: /contact/
