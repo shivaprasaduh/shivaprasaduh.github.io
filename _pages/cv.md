@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-<object data="../files/CV.pdf" width="1000" height="1000" type='application/pdf'></object>
+<object data="../files/CV.pdf#toolbar=0&navpanes=0&scrollbar=0" width="100%" height="120%" type='application/pdf'></object>
 
 
 If you prefer a concise résumé in pdf format, please see find it [here](../files/CV.pdf){: .btn--research}.
