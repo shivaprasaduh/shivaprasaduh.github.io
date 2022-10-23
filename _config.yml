@@ -84,7 +84,7 @@ google_analytics: G-5FCVHQLGHV
 author:
   name             : "Shivaprasad"
   avatar           : "shivaprasad.jpg"
-  bio              : |+ 
+  bio              : - | 
                       B.Tech Engineering Physics,
 
                       IIT Madras
