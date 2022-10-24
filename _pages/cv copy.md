@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Curriculum Vitae"
-permalink: /cvcopy/
+# permalink: /cvcopy/
 author_profile: true
 redirect_from:
   - /resume
