@@ -10,7 +10,7 @@ We patented our new design on 27th April, 2022.
 Nikhil Yelamarthy, Parth Shah, ***Shivaprasad Hulyal***, Kishan Thakkar, Dr. Satyanaryanan Chakravarthy
 *(Patent Application No: 202241024672)*  
 
-In July 2021, we won the 'Most Scalable Pod Design' by Zeleoros Hyperloop at the European Hyperloop Week at Valencia, Spain.  
+In July 2021, we won the 'Most Scalable Pod Design' by Zeleros Hyperloop at the European Hyperloop Week at Valencia, Spain.  
 
 We were presented on all major news houses as well as local coverage in India due to our work on the Hyperloop. All the news coverage can be found [here.](../files/Avishkar/avishkar_news.pdf)  
 
