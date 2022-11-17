@@ -1,6 +1,6 @@
 ---
 title: "Dual Unitary and Bernoulli Circuits"
-excerpt: "Undergraduate Project Thesis IIT Madras<br/><img src='/images/diag_brickcircuit.png' width='50%' alt='Dual-unitary-Circuit'>"
+excerpt: "Undergraduate Project Thesis IIT Madras<br/><img src='/images/diag_brickcircuit.png' width='40%' alt='Dual-unitary-Circuit'>"
 collection: research
 ---
 
