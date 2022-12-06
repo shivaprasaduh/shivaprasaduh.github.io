@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Shivaprasad's Personal Website"
+title: "Shivaprasad's Website"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
