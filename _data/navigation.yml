@@ -3,19 +3,21 @@ main:
   - title: "About"
     url: /about/
 
-  # - title: "Talks"
-  #   url: /talks/    
-
   # - title: "Teaching"
   #   url: /teaching/    
     
   - title: "Research"
     url: /research/
         
+  - title: "Talks"
+    url: /talkmap/  
 
   - title: "CV"
     url: /cv/
   
+  - title: "Publications"
+    url: /publications/  
+
   - title: "Miscellaneous"
     url: /year-archive/
 
