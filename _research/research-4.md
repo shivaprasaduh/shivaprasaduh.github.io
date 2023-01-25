@@ -9,9 +9,9 @@ quantum computer and measure the outgoing Hawking radiation. I simulated and stu
 microstate behaves in real time. 
 Presented a poster at YRF Poster Presentation.  
 
-<img src='/images/YRF_Talk.jpg' width = '80%' alt='me_presenting_poster'>
+<img src='/images/YRF_Talk1.jpg' width = '80%' alt='me_presenting_poster'>
 
-<img src='/images/YRF_director.jpg' width = '80%' alt='me_presenting_poster1'>
+<img src='/images/YRF_director1.jpg' width = '80%' alt='me_presenting_poster1'>
 
 
 <object data="\files\reports\Young_Research_Fellow_Poster.pdf#navpanes=0&scrollbar=0" width="100%" height="180%" type='application/pdf'></object>
