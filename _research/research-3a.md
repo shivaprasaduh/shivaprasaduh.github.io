@@ -1,6 +1,6 @@
 ---
 title: "Propulsion System - Patented Design"
-excerpt: "Centre for Innovation, IIT Madras <br/><img src='/files/Avishkar/LIM.png'  width='50%' alt='HyperloopPic'>"
+excerpt: "Centre for Innovation, IIT Madras <br/><img src='/files/Avishkar/LIM.jpg'  width='50%' alt='HyperloopPic'>"
 collection: research
 ---
 LIM, short for Linear Induction Motor, is the pod's primary propulsion system and provides the thrust required for the pod's acceleration. We have achieved a compact design with just a 12kg, 70cm long LIM. We introduced a new design, using curved tooth to curb the end effects.  All our simulations were done using COMSOL Multiphysics software and tested.
@@ -21,6 +21,5 @@ For more information visit the team's official website [www.avishkarhyperloop.co
 <img src='\files\Avishkar\Shiva-Online-EHW.jpeg'>
 
 <img src='\files\Avishkar\MinisterLookinatLIM.jpeg'>
-
 
 <img src='\files\Avishkar\Team-with-Pod.jpg'>
