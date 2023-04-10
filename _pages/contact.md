@@ -9,3 +9,6 @@ redirect_from:
 {% include base_path %}
 
 Reach out to me at [shivaprasad@smail.iitm.ac.in](mailto:shivaprasad@smail.iitm.ac.in "Send me an email!")
+
+
+<img src='..\images\Aps1.jpg'>
