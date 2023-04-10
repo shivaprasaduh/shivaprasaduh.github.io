@@ -19,4 +19,8 @@ We were presented on all major news houses as well as local coverage in India du
 For more information visit the team's official website [www.avishkarhyperloop.com](https://www.avishkarhyperloop.com)
 
 <img src='\files\Avishkar\Shiva-Online-EHW.jpeg'>
+
+<img src='\files\Avishkar\MinisterLookinatLIM.jpeg'>
+
+
 <img src='\files\Avishkar\Team-with-Pod.jpg'>
