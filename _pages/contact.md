@@ -10,4 +10,4 @@ redirect_from:
 
 Reach out to me at [shivaprasad@smail.iitm.ac.in](mailto:shivaprasad@smail.iitm.ac.in "Send me an email!")
 
-<img src='..\images\APS1_small.jpg'>
+<img src='..\images\APS\Shiva_APS2_vivid.jpg'>
