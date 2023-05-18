@@ -4,4 +4,4 @@ excerpt: "Undergraduate Project Thesis IIT Madras<br/><img src='/images/diag_bri
 collection: research
 ---
 
-I am working on understanding the dynamics and space-time duality in these circuits of Dual-Unitary Quantum Circuits
+I am working on understanding the autocorrelation value and space-time duality in the Dual-Unitary Quantum Circuits.
