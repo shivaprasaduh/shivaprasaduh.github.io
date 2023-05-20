@@ -1,6 +1,18 @@
 ---
-title: "Quantum Error Correction using Cellular Automaton Decoders"
-excerpt: "Summer Intern at IIT Madras <br/><img src='/images/ToricCode.png'  width='50%' alt='Threshold Rates'>"
+title: "Simulating black holes using matrix models"
+excerpt: "Young Research Fellowship Project <br/><img src='/images/SymmvsRadiusN=2;WP=15.png' width='50%' alt='SymmRadius'>"
+
 collection: research
 ---
-Analysed the topological Cellular Automaton Decoders using only local update rules and its application in Quantum Error Correcting Codes. I simulated for different architectures and designs in the stabilizer formalism on the Toric Code and applied sweep rules to get a high threshold rates. The link to the original Phys. Rev. Letter is [here](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.123.020501)
+A matrix model is built to simulate the black hole on a
+quantum computer and measure the outgoing Hawking radiation. I simulated and studied how a typical black hole
+microstate behaves in real time. 
+Presented a poster at YRF Poster Presentation.  
+
+<img src='/images/YRF_Talk1.jpg' width = '80%' alt='me_presenting_poster'>
+
+<img src='/images/YRF_director1.jpg' width = '80%' alt='me_presenting_poster1'>
+
+
+<object data="\files\reports\Young_Research_Fellow_Poster.pdf#navpanes=0&scrollbar=0" width="100%" height="180%" type='application/pdf'></object>
+

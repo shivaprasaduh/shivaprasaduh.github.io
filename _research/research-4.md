@@ -1,18 +1,29 @@
 ---
-title: "Simulating black holes using matrix models"
-excerpt: "Young Research Fellowship Project <br/><img src='/images/SymmvsRadiusN=2;WP=15.png' width='50%' alt='SymmRadius'>"
-
+title: "Propulsion System - Patented Design"
+excerpt: "Centre for Innovation, IIT Madras <br/><img src='/files/Avishkar/LIM.jpg'  width='50%' alt='HyperloopPic'>"
 collection: research
 ---
-A matrix model is built to simulate the black hole on a
-quantum computer and measure the outgoing Hawking radiation. I simulated and studied how a typical black hole
-microstate behaves in real time. 
-Presented a poster at YRF Poster Presentation.  
+LIM, short for Linear Induction Motor, is the pod's primary propulsion system and provides the thrust required for the pod's acceleration. We have achieved a compact design with just a 12kg, 70cm long LIM. We introduced a new design, using curved tooth to curb the end effects.  All our simulations were done using COMSOL Multiphysics software and tested.
+We patented our new design on 27th April, 2022.
 
-<img src='/images/YRF_Talk1.jpg' width = '80%' alt='me_presenting_poster'>
+## Patent
 
-<img src='/images/YRF_director1.jpg' width = '80%' alt='me_presenting_poster1'>
+**Enhanced Linear Induction Motor (LIM) with a modified end-teeth design**
+Nikhil Yelamarthy, Parth Shah, ***Shivaprasad Hulyal***, Kishan Thakkar, Dr. Satyanaryanan Chakravarthy
+*(Patent Application No: 202241024672)*
 
+In July 2021, we won the 'Most Scalable Pod Design' by Zeleros Hyperloop at the European Hyperloop Week at Valencia, Spain.
 
-<object data="\files\reports\Young_Research_Fellow_Poster.pdf#navpanes=0&scrollbar=0" width="100%" height="180%" type='application/pdf'></object>
+We were presented on all major news houses as well as local coverage in India due to our work on the Hyperloop. All the news coverage can be found [here.](https://shivaprasaduh.github.io//files/Avishkar/avishkar_news.pdf)
 
+For more information visit the team's official website [www.avishkarhyperloop.com](https://www.avishkarhyperloop.com)
+
+<img src='\files\Avishkar\avishkar_newspaper_report.jpg' width='100%' alt='Newspaper Report'>
+
+<img src='\files\Avishkar\Shiva-Online-EHW.jpeg' width='100%' alt='Shiva Online'>
+
+<img src='\files\Avishkar\MinisterLookinatLIM.jpeg' width='100%' alt='Minister Ashwini Vaishnaw'>
+
+<img src='\files\Avishkar\Team-with-Pod.jpg' width='100%' alt='Entire Team'>
+
+<img src='\files\Avishkar\Pod.jpg' width='100%' alt='Pod'>
