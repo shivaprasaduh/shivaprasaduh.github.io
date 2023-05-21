@@ -7,7 +7,7 @@ Achieved high fiber to source (microring resonator) coupling efficiency. Demonst
 performance for the resonator using AWG-based pulse waveform optimization techniques. Performed classical and
 quantum measurements to determine the chip performance metrics such as losses, spectral and temporal features, purity. I also worked on Quantum Random Number Generator setup to obtain experimental data.
 The internship program was supported by MITACS.
-`<br/>`
-`<img src='/images/MITACS_real.jpg' width='60%' alt='Setup-Graphics'>`
+<br/>
+<img src='/images/MITACS_real.jpg' width='60%' alt='Setup-Graphics'>
 
 <!-- # 'As this is a unpublished ongoing project, I cannot share much.' -->
