@@ -13,7 +13,8 @@ My main research interests are in superconducting circuits for quantum informati
 
 I hope to pursue a Ph.D. in this research field and contribute to groundbreaking research.
 
-Please click on any of the topbar tabs to view my profile.
+Please click on any of the topbar tabs 
+<img src='\images\hamburger_icon.jpg' width='3.5%' alt='hamburger_icon'> to view my profile.
 
 Thank you for visiting and welcome to my website!
 
