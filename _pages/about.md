@@ -19,3 +19,10 @@ Please click on any of the topbar tabs
 Thank you for visiting and welcome to my website!
 
 <img src='\images\profile\Shiva_Lake_Widescreen.jpg' width='100%' alt='Shiva_Lake_Widescreen'>
+
+
+<br>
+<picture>
+  <source srcset="\images\profile\Shiva_Lake_Widescreen.webp" type="image/webp">
+  <img src='\images\profile\Shiva_Lake_Widescreen.jpg' width='100%' alt='Shiva_Lake_Widescreen' />
+</picture>
