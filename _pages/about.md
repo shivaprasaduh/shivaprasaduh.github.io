@@ -18,8 +18,7 @@ Please click on any of the topbar tabs
 
 Thank you for visiting and welcome to my website!
 
-<img src='\images\profile\Shiva_Lake_Widescreen.jpg' width='100%' alt='Shiva_Lake_Widescreen'>
-
+<!-- <img src='\images\profile\Shiva_Lake_Widescreen.jpg' width='100%' alt='Shiva_Lake_Widescreen'> -->
 
 <br>
 <picture>
